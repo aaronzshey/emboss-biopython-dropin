@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html, body, div {
+  background-color: black;
+  color: white;
+}
+
+.highlight {
+  background-color: black;
+}
